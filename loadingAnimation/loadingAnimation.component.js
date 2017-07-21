@@ -12,7 +12,7 @@
      * @example
      *
      * <pre>
-     *  <loading-animation message="Loading">Loaded content</loading-animation>
+     *  <loading-animation promise="api.promise" message="Loading">Loaded content</loading-animation>
      * </pre>
      *
      */
