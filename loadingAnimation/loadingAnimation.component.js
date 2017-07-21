@@ -4,7 +4,7 @@
     /**
      *
      * @ngdoc component
-	 * @author vpellegrino
+     * @author vpellegrino
      * @name app.components.loadingAnimation
      * @description
      * A component used to wrap whatever HTML content with a loading message above animated dots, while a promise is still in progress
