@@ -1,5 +1,5 @@
 # angularjs-loading-animation
-A component that can be used to show a loading animation while a promise is not yet resolved.
+An AngularJS 1.5+ component that can be used to show a loading animation while a promise is not yet resolved.
 It can be used to wrap whatever HTML content with a loading message above animated dots, while a promise is still in progress
 **********************************************************************************************************************************************
 
