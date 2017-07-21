@@ -1,0 +1,9 @@
+<span class="loading-animation" ng-if="!$ctrl.promiseSolved">
+    <span class="message">{{::$ctrl.message}}</span>
+    <span class="spinner">
+        <span class="bounce1"></span>
+        <span class="bounce2"></span>
+        <span class="bounce3"></span>
+    </span>
+</span>
+<ng-transclude ng-if="$ctrl.promiseSolved"></ng-transclude>
