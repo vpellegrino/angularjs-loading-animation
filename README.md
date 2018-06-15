@@ -6,6 +6,6 @@ It can be used to wrap whatever HTML content with a loading message above animat
 How to use:
 <pre><code>
 &lt;loading-animation promise="api.promise" message="Loading"&gt;
-  <span>Loaded content&lt;/span&gt;
+  &lt;/span&gt;Loaded content&lt;/span&gt;
 &lt;/loading-animation&gt;
 </code></pre>
